@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://twitter.com/nitishk17328435](https://twitter.com/nitishk17328435)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nitishk17328435" height="30" width="40" /></a>
+<a href="https://twitter.com/@nitishk17328435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nitishk17328435" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nitish-kulkarni-bb0427190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitish-kulkarni-bb0427190" height="30" width="40" /></a>
 <a href="https://instagram.com/nitish_kulkarni_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitish_kulkarni_02" height="30" width="40" /></a>
 <a href="https://dribbble.com/nitish45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nitish45" height="30" width="40" /></a>
